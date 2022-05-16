@@ -1,0 +1,8 @@
+{
+  "name": "Frogend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fbba9ddd"
+}
